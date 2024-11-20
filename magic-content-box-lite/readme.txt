@@ -3,9 +3,9 @@ Author URI: https://www.afthemes.com
 Plugin URI: http://afthemes.com/plugins/magic-content-box/
 Contributors: afthemes
 Tags: block, blocks, button, call to action, gutenberg block
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.3
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Advanced Gutenberg Blocks for Flexible Page Sections, Call to Action, Headers, Buttons, Shape Dividers, and Layout Options
