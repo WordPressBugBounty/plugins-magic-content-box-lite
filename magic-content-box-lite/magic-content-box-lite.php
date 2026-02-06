@@ -3,7 +3,7 @@
      * Plugin Name:       Magic Content & CTA Box Builder
      * Plugin URI:        https://afthemes.com/plugins/
      * Description:       Advanced Gutenberg Blocks for Flexible Page Sections, Headers, Buttons, Shape Dividers, and Layout Options
-     * Version:           1.1.2
+     * Version:           1.1.3
      * Author:            AF themes
      * Author URI:        https://afthemes.com
      * Text Domain:       magic-content-box-lite
